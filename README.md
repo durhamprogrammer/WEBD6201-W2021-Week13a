@@ -1,3 +1,3 @@
-# WEBD6201-W2021-ICE11b
+# WEBD6201-W2021-Week13a
 
-This is a demo project for ICE 11
+This is a demo project for Week 13a
